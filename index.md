@@ -9,8 +9,7 @@ First Header | Second Header| Third Header|
 Neutral Speech | Converted Speech | Target Speech
 
 <script>
-var audio = new Audio("https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/forGITHUB/German/a_tar.wav")
-audio.play()
+  <audio ref='themeSong' src="https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/forGITHUB/German/a_tar.wav" autoPlay loop></audio>
 </script>
 
 2. Neutral to Fear
