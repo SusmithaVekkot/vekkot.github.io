@@ -6,7 +6,7 @@
 
 Neutral Speech | Converted Speech|Target Speech|
 ------------ | ------------- | ------------|
- |https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/forGITHUB/German/a_tar.wav  | 
+ |https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/for GITHUB/German/a_tar.wav  | 
 
 
 
