@@ -1,3 +1,5 @@
+<script src = "http://api.html5media.info/1.1.8/html5media.min.js"></script>
+
 ### Emotional Voice Converison uisng i-vector PLDA and ANN-PSO
 
 ## German
@@ -8,7 +10,7 @@ Neutral Speech | Converted Speech|Target Speech|
 ------------ | ------------- | ------------|
  |https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/forGITHUB/German/a_tar.wav  | 
 
-
+<audio src="a_tar.wav" controls preload></audio>
 
 2. Neutral to Fear
 
