@@ -9,7 +9,6 @@
 Neutral Speech | Converted Speech|Target Speech|
 ------------ | ------------- | ------------|
  
-
 <audio src="a_tar.wav" controls preload></audio>
 
 2. Neutral to Fear
