@@ -23,7 +23,7 @@ First Header | Second Header| Third Header|
 ------------ | ------------- | ------------|
 Neutral Speech | Converted Speech | Target Speech
 
-## English
+## English only
 
 1. Neutral to Anger
 
