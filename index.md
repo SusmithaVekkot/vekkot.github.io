@@ -4,7 +4,7 @@
 
 ## German
 
-1. Neutral to Anger
+1. Neutral to Anger Test
 
 Neutral Speech | Converted Speech|Target Speech|
 ------------ | ------------- | ------------|
