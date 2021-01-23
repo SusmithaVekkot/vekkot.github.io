@@ -4,12 +4,16 @@
 
 ## German
 
-1. Neutral to Anger Test
+1. Neutral to Anger 
 
-Neutral Speech | Converted Speech|Target Speech|
------------- | ------------- | ------------|
+ 
  <script src = "https://api.html5media.info/1.1.4/html5media.min.js"></script>
-<audio src="a_tar.wav" controls preload></audio> | <audio src="a_tar.wav" controls preload></audio> | <audio src="a_tar.wav" controls preload></audio> |
+Neutral Speech     <audio src="a_tar.wav" controls preload></audio> 
+<br></br>
+Converted Speech  <audio src="a_tar.wav" controls preload></audio>  
+<br></br>
+Target Speech     <audio src="a_tar.wav" controls preload></audio> 
+<br></br>
 
 2. Neutral to Fear
 
