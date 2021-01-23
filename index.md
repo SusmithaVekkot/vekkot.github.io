@@ -8,7 +8,7 @@
 
 Neutral Speech | Converted Speech|Target Speech|
 ------------ | ------------- | ------------|
- |https://raw.githubusercontent.com/SusmithaVekkot/vekkot.github.io/main/forGITHUB/German/a_tar.wav  | 
+ 
 
 <audio src="a_tar.wav" controls preload></audio>
 
